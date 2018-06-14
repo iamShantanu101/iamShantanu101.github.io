@@ -6,10 +6,19 @@
     <description>Recent content on Inherently Chaotic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iamShantanu101.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nietzsches Butterfly: An Introduction to Chaos Theory and Chaos Engineering</title>
+      <link>https://iamShantanu101.github.io/post/chaos-theory-and-engineering/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamShantanu101.github.io/post/chaos-theory-and-engineering/</guid>
+      <description>Chaos theory was immortalized in fiction by &amp;ldquo;The Sound of Thunder,&amp;rdquo; a short story that tells the tale of a contemporary presidential election being affected significantly by the death of a pre-historic butterfly. The chain of coincidences that led to this altered future seemed to be random and unpredictable, but when all the changes are tracked-a gargantuan, realistically impossible undertaking-order does emerge. The problem is, you have to accept the idea of chaos trumping simple cause and effect first, before you can see the inherent order at all.</description>
+    </item>
     
     <item>
       <title>Comments example</title>
