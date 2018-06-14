@@ -1,0 +1,22 @@
+languageCode = "en-us"
+title = "Inherently Chaotic"
+baseURL = "https://iamShantanu101.github.io"
+theme = "../.."
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     foldername = "post"
+#     pagesize = "6"
+#     featuredpost = "true"
+
+[params.settings]
+    googleanalytics = "UA-99006259-3"
+    disqus = "inherently-chaotic"
+
+[languages]
+[languages.en]
+  languageName = "English"
